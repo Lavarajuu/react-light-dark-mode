@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container1 {
+  text-align: center;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #000000;
+}
+.button {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 10px;
+  border-radius: 8px;
+}
+.container2 {
+  text-align: center;
+  border: 1px solid #000000;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.heading2 {
+  color: #000000;
+}
+.heading1 {
+  color: #ffffff;
+}
